@@ -1,2 +1,2 @@
-* [Minecraft服务端部署](minecraft/README.md)
+* [Minecraft服务端部署](minecraft/)
 * [WebDAV使用指南](cafe/)
