@@ -1,2 +1,1 @@
-# starmoe-docs
-Docs for using cafe starmoe
+# 星萌咖啡屋文档中心  
